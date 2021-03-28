@@ -1,0 +1,30 @@
+.footerContainer{
+    position: relative;
+    width: 100%;
+    height: 538px;
+    background: #5E33D1 0% 0% no-repeat padding-box;
+}
+
+.footerEmail{
+    position: absolute;
+    top: 181px;
+    left: 202px;
+    color: #ffffff;
+    font: 35px Helvetica Neue,Regular;
+}
+
+.footerCompany{
+    position: absolute;
+    top: 320px;
+    left: 846px;
+    color: #ffffff;
+    font: 48px Helvetica Neue,Regular;
+}
+
+.footerCopyright{
+    position: absolute;
+    top: 421px;
+    left: 583px;
+    color: #ffffff;
+    font: 24px Helvetica Neue,Regular;
+}

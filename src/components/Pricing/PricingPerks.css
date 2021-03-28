@@ -1,0 +1,24 @@
+.PricingPerksContainer{
+    width: 433px;
+}
+
+.PricingPerksName{
+    text-align: left;
+    font: normal normal bold 51px/62px Helvetica Neue;
+    letter-spacing: 5.1px;
+    opacity: 1;
+}
+
+.PricingPerksUnderline{
+    width: 141px;
+    height: 40px;
+    border-top: 3px solid;
+    opacity: 1;
+}
+
+.PricingPerksContent{
+    text-align: left;
+    font: normal normal normal 35px/41px Helvetica Neue;
+    letter-spacing: 3.5px;
+    opacity: 1;
+}

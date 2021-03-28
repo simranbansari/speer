@@ -1,0 +1,50 @@
+.PricingChooseName{
+    text-align: left;
+    font: normal normal bold 42px/51px Helvetica Neue;
+    letter-spacing: 4.2px;
+    opacity: 1;
+}
+
+.PricingChooseUnderline{
+    width: 141px;
+    height: 0px;
+    border-top: 3px solid;
+    opacity: 1;
+}
+
+.PricingChoosePeriod{
+    text-align: left;
+    font: normal normal bold 47px/57px Helvetica Neue;
+    letter-spacing: 4.7px;
+    opacity: 1;
+}
+
+.PricingChooseCost{
+    text-align: left;
+    font: normal normal bold 134px/164px Helvetica Neue;
+    letter-spacing: 13.4px;
+    opacity: 1;
+}
+
+.PricingChooseAdv{
+    text-align: left;
+    font: normal normal normal 47px/64px Helvetica Neue;
+    letter-spacing: 4.7px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.PricingChooseButton{
+    width: 335px;
+    height: 84px;
+    background: 0% 0% no-repeat padding-box;
+    border-radius: 79px;
+    opacity: 1;
+    font: normal normal bold 24px/29px Helvetica Neue;
+    letter-spacing: 2.4px;
+    color: #FFFFFF;
+}
+
+.PricingChooseButton:hover {
+    background: transparent linear-gradient(90deg, #1FE1E9 0%, #5E33D1 34%, #D34848 65%, #FFB33F 100%) 0% 0% no-repeat padding-box;
+}
